@@ -3,9 +3,9 @@ import numpy as np
 import streamlit as st
 import warnings
 warnings.filterwarnings('ignore')
-# from sklearn.linear_model import LinearRegression
-# import seaborn as sns
-# import matplotlib.pyplot as plt
+from sklearn.linear_model import LinearRegression
+import seaborn as sns
+import matplotlib.pyplot as plt
 import pickle
 from sklearn.preprocessing import StandardScaler, MinMaxScaler
 from sklearn.ensemble import RandomForestRegressor
