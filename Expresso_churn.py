@@ -3,7 +3,7 @@ import numpy as np
 import streamlit as st
 import warnings
 warnings.filterwarnings('ignore')
-from sklearn.linear_model import LinearRegression
+# from sklearn.linear_model import LinearRegression
 import seaborn as sns
 import matplotlib.pyplot as plt
 import pickle
